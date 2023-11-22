@@ -1,0 +1,25 @@
+# Arquivos objeto
+*.o
+
+# Arquivos executáveis
+*.exe
+*.out
+
+# Arquivos gerados pelo compilador
+*.dSYM/
+*.gcda
+*.gcno
+
+# Arquivos de dependências
+*.deps/
+
+# Arquivos de configuração do IDE
+.vscode/
+.idea/
+
+# Arquivos de log
+*.log
+
+# Outros arquivos gerados
+*.bak
+*.swp
